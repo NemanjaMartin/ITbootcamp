@@ -1,0 +1,38 @@
+    1  pwd
+    2  ls
+    3  ls -l
+    4  cd ..
+    5  pwd
+    6  ll
+    7  cd ..
+    8  cd Desktop
+    9  ls -l
+   10  cd Stefan
+   11  pwd
+   12  cd Desktop
+   13  pwd
+   14  mkdir test123
+   15  cd test123
+   16  touch test.txt
+   17  nano test.txt
+   18  cat test.txt
+   19  ls -l
+   20  ls --help
+   21  rm test.txt
+   22  history
+   23  history > istorija.txt
+   24  cat istorija.txt
+   25  tail istorija.txt
+   26  tail -n 3 istorija.txt
+   27  head istorija.txt
+   28  head -n 5
+   29  head -n 5
+   30  head -n 5 istorija.txt
+   31  date
+   32  time
+   33  cal
+   34  mkdir novi123
+   35  cd novi123
+   36  touch fajl.txt
+   37  history fajl.txt
+   38  history > fajl.txt
